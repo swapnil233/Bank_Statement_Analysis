@@ -8,4 +8,4 @@ A python script that takes in a store/vendor's name and reads your bank statemen
 4. Change the value of 'target' to whatever you want track, according to the rules given in the .py file (ie if I wanted to track all Tim Horton's spendings I'd just need to put target='tim' as it checks for the first word.
 
 ### Bonus: 
-I do UberEats, DoorDash and SkipTheDishes as a side income. I've included the code to check how much you've earned with these.
+I do UberEats, DoorDash and SkipTheDishes as a side income. I've included the code to check how much you've earned with these. Just un-comment them (remove the ''' from top and bottom).
